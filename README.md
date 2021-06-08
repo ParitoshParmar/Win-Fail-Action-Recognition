@@ -1,6 +1,6 @@
 # Win-Fail-Action-Recognition
 
-Dataset can be downloaded from: https://drive.google.com/drive/folders/1YNbR1AOY7-t6UxUPWW6EmCzxCG-Kr9Xv?usp=sharing
+Dataset can be downloaded from: https://drive.google.com/drive/folders/1YNbR1AOY7-t6UxUPWW6EmCzxCG-Kr9Xv?usp=sharing. Please 7-zip to uncompress the dataset.
 
 If you find this dataset useful, please consider citing:
 ```
