@@ -7,6 +7,9 @@ Current video/action understanding systems have demonstrated impressive performa
 Dataset can be downloaded from: https://drive.google.com/drive/folders/1q_El9GQJQgG8Agl8eUY3JUJvsYyb8UOP?usp=sharing. Please 7-zip to uncompress the dataset.
 
 ### Annotation format
+1. All the samples are pairwise -- win and the corresponding fail.
+2. 'g' stands for a good execution or win; while 'b' stands for a bad execution or failure.
+3. 'label_0', 'start_0', 'stop_0' belong to clip_0 (win or fail) of a paired sample. Likewise, 'label_1', 'start_1', 'stop_1' belong to clip_1 (opposite of clip_0) of a paired sample. 
 
 If you find this dataset useful, please consider citing:
 ```
