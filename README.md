@@ -13,12 +13,17 @@ Dataset can be downloaded from: https://drive.google.com/drive/folders/1q_El9GQJ
 4. Sample annotation explanation:
 <p align="left"> <img src="annotation_sample.png?raw=true" alt="win-fail action recognition annotation sample" width="400"/> </p>
 
+
+Please feel free to reach out to me if you face any problem or have any questions.
+
+
 If you find this dataset useful, please consider citing:
 ```
-@article{parmar2021win,
+@inproceedings{parmar2022win,
   title={Win-Fail Action Recognition},
   author={Parmar, Paritosh and Morris, Brendan},
-  journal={arXiv preprint arXiv:2102.07355},
-  year={2021}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={161--171},
+  year={2022}
 }
 ```
