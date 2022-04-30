@@ -10,6 +10,8 @@ Dataset can be downloaded from: https://drive.google.com/drive/folders/1q_El9GQJ
 1. All the samples are pairwise -- win and the corresponding fail.
 2. 'g' stands for a good execution or win; while 'b' stands for a bad execution or failure.
 3. 'label_0', 'start_0', 'stop_0' belong to clip_0 (win or fail) of a paired sample. Likewise, 'label_1', 'start_1', 'stop_1' belong to clip_1 (opposite of clip_0) of a paired sample. 
+4. Sample annotation explanation:
+<p align="left"> <img src="annotation_sample.png?raw=true" alt="win-fail action recognition annotation sample" width="200"/> </p>
 
 If you find this dataset useful, please consider citing:
 ```
